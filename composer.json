@@ -1,0 +1,12 @@
+{
+    "name": "elkoob/aparat-search",
+    "require": {
+        "php": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "elkoob team",
+            "email": "info@elkoob.ir"
+        }
+    ]
+}
