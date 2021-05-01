@@ -1,5 +1,5 @@
 {
-    "name": "elkoob/aparat-search",
+    "name": "elkoob/aparat-api",
     "require": {
         "php": "^5.0"
     },
