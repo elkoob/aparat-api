@@ -4,10 +4,10 @@
 namespace aparat;
 
 
-class video
+class video extends tools
 {
-    public function byName(Type $var = null)
+    public function bySearch(string $text, integer $num = null)
     {
-        # code...
+
     }
 }
